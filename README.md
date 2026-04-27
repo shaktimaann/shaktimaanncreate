@@ -29,7 +29,6 @@ I'm currently pursuing my degree in **Electronics and Telecommunication Engineer
   - ESP32 - WiFi and Bluetooth enabled microcontroller
   - PIC18F4520 - PIC microcontroller family
 - **Embedded Programming** - Real-time systems, firmware development
-- **Telecommunications** - Signal processing, communication protocols
 
 ## 🚀 Projects
 
